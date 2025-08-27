@@ -1,0 +1,34 @@
+[
+  {
+    "title": "قوة العادات",
+    "type": "كتاب",
+    "category": "كتب",
+    "description": "كتاب يساعدك على بناء عادات قوية وناجحة.",
+    "link": "https://example.com/book1",
+    "image": "images/book1.jpg"
+  },
+  {
+    "title": "10 دقائق يوميًا للنجاح",
+    "type": "مقال",
+    "category": "مقالات",
+    "description": "مقال يشرح كيفية استغلال 10 دقائق يوميًا لتحقيق أهدافك.",
+    "link": "https://example.com/article1",
+    "image": "images/article1.jpg"
+  },
+  {
+    "title": "فيديو تحفيزي: ابدأ اليوم",
+    "type": "فيديو",
+    "category": "فيديو",
+    "description": "فيديو قصير عن أهمية المبادرة وعدم التأجيل.",
+    "link": "https://example.com/video1",
+    "image": "images/video1.jpg"
+  },
+  {
+    "title": "اقتباس تحفيزي اليوم",
+    "type": "اقتباسات",
+    "category": "اقتباسات",
+    "description": "لا تنتظر الفرصة، اصنعها بنفسك.",
+    "link": "#",
+    "image": "images/quote1.jpg"
+  }
+]
